@@ -178,7 +178,7 @@ A deep-learning medical imaging system designed to automate **prostate volume de
 | **Architecture** | Hybrid VGG16-UNet |
 | **Validation** | Peer-reviewed at ICCIS 2025 |
 | **Impact** | Automated prostate delineation from micro-ultrasound scans |
-| **Repository** | [ProstateSegmentation](https://github.com/AmitejSingh1/ProstateSegmentation-usingDeepLearning) |
+| **Repository** | [ProstateSegmentation](https://github.com/AmitejSingh1/ProstateSegmentation) |
 
 ### Engineering Highlights
 
