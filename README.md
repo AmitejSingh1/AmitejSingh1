@@ -15,7 +15,7 @@
 <a href="https://amitejsingh-datta.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="www.linkedin.com/in/amitej-singh-datta-2a3022286">
+<a href="https://www.linkedin.com/in/amitej-singh-datta-2a3022286/">
 <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:amitejsingh5@gmail.com">
@@ -178,7 +178,7 @@ A deep-learning medical imaging system designed to automate **prostate volume de
 | **Architecture** | Hybrid VGG16-UNet |
 | **Validation** | Peer-reviewed at ICCIS 2025 |
 | **Impact** | Automated prostate delineation from micro-ultrasound scans |
-| **Repository** | [ProstateSegmentation](https://github.com/AmitejSingh1/ProstateSegmentation) |
+| **Repository** | [ProstateSegmentation](https://github.com/AmitejSingh1/ProstateSegmentation-usingDeepLearning) |
 
 ### Engineering Highlights
 
@@ -356,7 +356,7 @@ Developed an end-to-end computer vision system for automatic video summarisation
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=AmitejSingh1&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&ring_color=7C3AED&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=AmitejSingh1&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub Streak"/>
+<img height="180" src="https://streak-stats.demolab.com/?user=AmitejSingh1&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub Streak"/>
 
 <br><br>
 
@@ -366,13 +366,11 @@ Developed an end-to-end computer vision system for automatic video summarisation
 
 ---
 
----
-
 ## GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AmitejSingh1&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies" />
+<img src="https://github-trophies.devomb.com/?username=AmitejSingh1&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies" />
 
 </div>
 
@@ -382,7 +380,7 @@ Developed an end-to-end computer vision system for automatic video summarisation
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmitejSingh1&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
+<img src="https://raw.githubusercontent.com/AmitejSingh1/AmitejSingh1/output/activity-graph.svg" alt="Contribution Activity Graph" />
 
 </div>
 
@@ -392,11 +390,14 @@ Developed an end-to-end computer vision system for automatic video summarisation
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AmitejSingh1/AmitejSingh1/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmitejSingh1/AmitejSingh1/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmitejSingh1/AmitejSingh1/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AmitejSingh1/AmitejSingh1/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
----
 ---
 
 ## Current Focus
@@ -450,7 +451,7 @@ Open To:
 <img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
-<a href="https://www.linkedin.com/in/amitej-singh">
+<a href="https://www.linkedin.com/in/amitej-singh-datta-2a3022286/">
 <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
