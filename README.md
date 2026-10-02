@@ -15,7 +15,7 @@
 <a href="https://amitejsingh-datta.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="https://www.linkedin.com/in/amitej-singh">
+<a href="www.linkedin.com/in/amitej-singh-datta-2a3022286">
 <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:amitejsingh5@gmail.com">
