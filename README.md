@@ -366,11 +366,13 @@ Developed an end-to-end computer vision system for automatic video summarisation
 
 ---
 
+---
+
 ## GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AmitejSingh1&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AmitejSingh1&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies" />
 
 </div>
 
@@ -380,7 +382,7 @@ Developed an end-to-end computer vision system for automatic video summarisation
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmitejSingh1&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmitejSingh1&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
 
 </div>
 
@@ -390,10 +392,11 @@ Developed an end-to-end computer vision system for automatic video summarisation
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AmitejSingh1/AmitejSingh1/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/AmitejSingh1/AmitejSingh1/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
+---
 ---
 
 ## Current Focus
